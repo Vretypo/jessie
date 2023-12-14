@@ -206,7 +206,7 @@ img {
 .hero {
 	/* min-height: 882px; */
 	padding-bottom: 20px;
-	background-image: url("../img/bg.png");
+	background-image: url("../img/bg.webp");
 	background-position: left 35% bottom;
 	background-size: contain;
 	background-repeat: no-repeat;
@@ -252,7 +252,7 @@ img {
 
 .hero__level span {
 	margin-left: -30px;
-	padding-right: 10px;
+	padding-right: 5px;
 	color: var(--second);
 }
 
